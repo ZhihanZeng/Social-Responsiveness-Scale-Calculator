@@ -55,6 +55,7 @@ Output will include subscale scores and total scores in a CSV or Excel format.
 
 📊 Example Output:
 ID	AWR	COG	COM	MOT	RRB	SCI	Total
+
 001	15	22	18	12	9	   55	   76
 002	11	19	14	9	  6	   43	   61
 
